@@ -1,11 +1,11 @@
 {
-  "Plugin-Class": "org.example.ExamplePlugin",
+  "Plugin-Class": "io.github.racoondog.attributeswap.AttributeSwap",
   "Name": "${project.plugin_name}",
   "Version": "${project.plugin_version}",
-  "Description": "Example rusherhack plugin",
-  "URL": "https://github.com/RusherDevelopment/example-plugin",
+  "Description": "Attribute Swap",
+  "URL": "https://github.com/RacoonDog/rh-attribute-swap",
   "Authors": [
-    "John200410"
+    "Crosby"
   ],
   "Minecraft-Versions": [
     "${project.minecraft_version}"
